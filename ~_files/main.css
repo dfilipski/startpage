@@ -1,8 +1,4 @@
 /* Fonts */
-@font-face {
-    font-family: Roboto;
-    src: url("../fonts/Roboto-Regular.ttf");
-}
 
 @font-face {
     font-family: Roboto-Light;
@@ -113,7 +109,7 @@ main {
 
 /* IDs */
 #clock {
-    font-family: Roboto;
+    font-family: Roboto-Light;
 }
 
 #top-div {
