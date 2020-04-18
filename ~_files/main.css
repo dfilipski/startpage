@@ -108,6 +108,10 @@ main {
     color: #9348ff;
 }
 
+.pink {
+    color: #ff6bfa;
+}
+
 /* IDs */
 #clock {
     font-family: Roboto-Light;
