@@ -29,7 +29,7 @@ html {
 
 body {
     align-items: center;
-    background-color: #1f1f1f;
+    background-color: #0f0f0f;
     color: #ddd;
     display: flex;
     height: 100%;
@@ -52,10 +52,10 @@ main {
 }
 
 .link-section {
-    background-color: #353535;
+    background-color: #252525;
     padding: 10px;
     overflow-y: auto;
-    box-shadow: 0px 0px 15px 2px #111;
+    box-shadow: 0px 0px 15px 2px #000;
 }
 
 .link-section-title {
@@ -139,14 +139,14 @@ main {
 }
 
 #search-bar, #search-bar-btn {
-    background-color: #353535;
+    background-color: #252525;
     border-color: #353535;
     border-style: solid;
     border-width: 1px;
 }
 
 #search-bar {
-    box-shadow: 0px 0px 15px 2px #111;
+    box-shadow: 0px 0px 15px 2px #000;
     box-sizing: border-box;
     color: #ddd;
     font-size: 16px;
