@@ -25,6 +25,7 @@ html {
 
 body {
     align-items: center;
+    background-image: url("../~_files/redbird.png");
     background-color: #0f0f0f;
     color: #ddd;
     display: flex;
